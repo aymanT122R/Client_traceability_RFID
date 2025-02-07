@@ -2,7 +2,7 @@
 
 This project integrates RFID technology with C++ and PHP to enhance client traceability, ensuring efficient tracking and seamless data management for optimal client service. The system uses an MFRC522 RFID reader, ESP32 microcontroller, and a web-based frontend built with PHP. The backend is powered by C++, and the data is managed using MySQL via phpMyAdmin.
 
-<img src="https://github.com/aymanT122R/Client_traceability_RFID.git/blob/main/image/architecture.png" width="100%">
+<img src="https://github.com/aymanT122R/Client_traceability_RFID/blob/main/image/architecture.png" width="100%">
 
 
 ## Table of Contents
